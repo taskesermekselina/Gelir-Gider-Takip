@@ -9,6 +9,7 @@ Uygulama, kullanıcı dostu bir arayüz ve görselleştirme araçları ile deste
 Giriş sayfası, uygulamanın ana ekranını temsil eder ve kullanıcıların uygulamayla olan etkileşimlerinin başlangıç noktasıdır. Bu sayfada şu özellikler yer alır:
 
 Gelir ve Gider Ekleme Butonu: Kullanıcı, gelir veya gider eklemek için bu butona tıklayarak yeni bir işlem kaydı oluşturabilir.
+
 İstatistik Görüntüleme Butonu: Kullanıcılar, kayıtlı gelir ve gider verilerini grafikler ve tablolar şeklinde görmek için bu butona tıklayabilir.
 Bu basit yapı, uygulamanın tüm özelliklerine hızlı ve kolay bir erişim sağlar.
 
