@@ -3,13 +3,15 @@
 Bu uygulama, kullanıcıların gelir ve giderlerini takip etmelerini kolaylaştırmak için tasarlanmıştır. Bütçeyi kontrol etmek, verileri incelemek ve harcamaları anlamak artık çok daha pratik hale geliyor. İstatistik tablosu ve grafikler sayesinde kullanıcılar finansal durumlarını görselleştirip analiz edebilir. Amacımız, herkesin rahatça kullanabileceği, basit ve etkili bir bütçe yönetim aracı sunmaktır.
 
 ## Uygulama tanıtımı
+**Giriş Sayfası:**
 Uygulamanın giriş kısmında bir ekleme butonu ve istatistik butonu bulunmaktadır
-![1](https://github.com/user-attachments/assets/69ac1ddc-7ff3-45af-b464-9182312ddec2)
+![Giriş Sayfası](https://github.com/user-attachments/assets/69ac1ddc-7ff3-45af-b464-9182312ddec2)
 
+**İşlem Ekleme Sayfası:**
 Ekleme butonuna basıldığında işlem ekle sayfasına giriş yapılır bu sayfada hem gelir
 hem de gider için belirli özelliklerle(başlık,miktar ,kategori.tarih)
 veriler kaydedilir
-![3](https://github.com/user-attachments/assets/5723a8ec-3db5-427a-8d5e-25297757e743)
+![İşlem Ekleme Sayfası](https://github.com/user-attachments/assets/5723a8ec-3db5-427a-8d5e-25297757e743)
 
 Eklenen veriler giriş sayfasında seçilen özellikler ile kaydolur .Gider ve gelir ayrımı için renk ayrımı yapılmıştır giderler kırmızı,gelirler yeşil renk ile kategorize edilmiştir
 ![5](https://github.com/user-attachments/assets/a38e1102-7f24-4f07-b51c-f2928aebe6f6)
