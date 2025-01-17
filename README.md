@@ -1,6 +1,6 @@
 # GELİR-GİDER TAKİP UYGULAMSI
 ## Uygulamanın Amacı
-bireylerin finansal durumlarını etkin bir şekilde yönetmelerine yardımcı olmayı amaçlayan bir bütçe yönetim aracıdır. Bu uygulama, kullanıcıların gelir ve giderlerini düzenli olarak takip etmelerini sağlarken, harcama alışkanlıklarını analiz etmelerine ve bütçelerini daha verimli bir şekilde planlamalarına olanak tanır.
+Bireylerin finansal durumlarını etkin bir şekilde yönetmelerine yardımcı olmayı amaçlayan bir bütçe yönetim aracıdır. Bu uygulama, kullanıcıların gelir ve giderlerini düzenli olarak takip etmelerini sağlarken, harcama alışkanlıklarını analiz etmelerine ve bütçelerini daha verimli bir şekilde planlamalarına olanak tanır.
 
 Uygulama, kullanıcı dostu bir arayüz ve görselleştirme araçları ile desteklenmiştir. Grafikler ve istatistik tabloları sayesinde kullanıcılar finansal verilerini hızlı bir şekilde analiz edebilir ve harcamalarını kontrol altında tutabilir.
 
