@@ -6,7 +6,8 @@ Bu uygulama, kullanıcıların gelir ve giderlerini takip etmelerini kolaylaşt�
 Uygulamanın giriş kısmında bir ekleme butonu ve istatistik butonu bulunmaktadır
 ![1](https://github.com/user-attachments/assets/69ac1ddc-7ff3-45af-b464-9182312ddec2)
 
-Ekleme butonuna basıldığında işlem ekle sayfasına giriş yapılır bu sayfada hem gelir hem de gider için belirli özelliklerle(başlık,miktar ,kategori.tarih)
+Ekleme butonuna basıldığında işlem ekle sayfasına giriş yapılır bu sayfada hem gelir
+hem de gider için belirli özelliklerle(başlık,miktar ,kategori.tarih)
 veriler kaydedilir
 ![3](https://github.com/user-attachments/assets/5723a8ec-3db5-427a-8d5e-25297757e743)
 
