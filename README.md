@@ -1,4 +1,4 @@
-# GELİR-GİDER TAKİP UYGULAMSI
+# GELİR-GİDER TAKİP UYGULAMASI
 ## Uygulamanın Amacı
 Bireylerin finansal durumlarını etkin bir şekilde yönetmelerine yardımcı olmayı amaçlayan bir bütçe yönetim aracıdır. Bu uygulama, kullanıcıların gelir ve giderlerini düzenli olarak takip etmelerini sağlarken, harcama alışkanlıklarını analiz etmelerine ve bütçelerini daha verimli bir şekilde planlamalarına olanak tanır.
 
