@@ -8,7 +8,7 @@ Uygulamanın giriş kısmında bir ekleme butonu ve istatistik butonu bulunmakta
 ![Giriş Sayfası](https://github.com/user-attachments/assets/69ac1ddc-7ff3-45af-b464-9182312ddec2)
 
 **İşlem Ekleme Sayfası:**
-Ekleme butonuna basıldığında işlem ekle sayfasına giriş yapılır bu sayfada hem gelirhem de gider için belirli özelliklerle(başlık,miktar ,kategori.tarih)veriler kaydedilir
+ İşlem ekle sayfasına giriş yapılır bu sayfada hem gelirhem de gider için belirli özelliklerle(başlık,miktar ,kategori.tarih)veriler kaydedilir
 ![İşlem Ekleme Sayfası](https://github.com/user-attachments/assets/5723a8ec-3db5-427a-8d5e-25297757e743)
 
 Eklenen veriler giriş sayfasında seçilen özellikler ile kaydolur .Gider ve gelir ayrımı için renk ayrımı yapılmıştır giderler kırmızı,gelirler yeşil renk ile kategorize edilmiştir
