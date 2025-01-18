@@ -69,6 +69,7 @@ Bu özellik, kullanıcıların finansal durumlarını yalnızca sayı ve metinle
 ![İstatistikler Sayfası](https://github.com/user-attachments/assets/287a25e6-138f-4164-8c86-2d321449627d)
 
 ## Uygulamanın tanıtım videosu için tıklayınız
+https://youtu.be/0cnV9R4Gino
 
 
 
