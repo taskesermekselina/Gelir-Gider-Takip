@@ -1,8 +1,8 @@
 # GELİR-GİDER TAKİP UYGULAMASI
 
 ## Ekip üyeleri;
-## MEKSELİNA TAŞKESER 132230049,
-## ALEYNA AYDOĞDU 132230029,
+## MEKSELİNA TAŞKESER 132230049
+## ALEYNA AYDOĞDU 132230029
 
 ## Uygulamanın Amacı
 Bireylerin finansal durumlarını etkin bir şekilde yönetmelerine yardımcı olmayı amaçlayan bir bütçe yönetim aracıdır. Bu uygulama, kullanıcıların gelir ve giderlerini düzenli olarak takip etmelerini sağlarken, harcama alışkanlıklarını analiz etmelerine ve bütçelerini daha verimli bir şekilde planlamalarına olanak tanır.
