@@ -62,3 +62,11 @@ Bütçe Yönetimi: Grafikler ve tablolar sayesinde kullanıcılar harcamaların�
 Bu özellik, kullanıcıların finansal durumlarını yalnızca sayı ve metinlerle değil, görsel araçlarla da analiz etmelerini sağlar.
 
 ![İstatistikler Sayfası](https://github.com/user-attachments/assets/287a25e6-138f-4164-8c86-2d321449627d)
+
+## Uygulamanın tanıtım videosu için tıklayınız
+
+
+
+
+## Uygulamaya ulaşmak için tıklayınız(Drive linki)
+https://drive.google.com/file/d/1XErFttj1faEYqM1ofn-hwbB1yb8xQxeD/view?usp=sharing
